@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Spider-Man: Homecoming",
+    "client_id": 1,
+    "start_date": "2016-06-20",
+    "finish_date": "2017-07-07"
+  },
+  {
+    "name": "Guardians of the Galaxy",
+    "client_id": 4,
+    "start_date": "2013-07-06",
+    "finish_date": "2014-08-01"
+  },
+  {
+    "name": "Captain America: Civil War",
+    "client_id": 4,
+    "start_date": "2015-04-27",
+    "finish_date": "2016-04-21"
+  },
+  {
+    "name": "Iron Man",
+    "client_id": 2,
+    "start_date": "2007-03-12",
+    "finish_date": "2008-05-02"
+  },
+  {
+    "name": "The Avengers",
+    "client_id": 3,
+    "start_date": "2011-04-01",
+    "finish_date": "2012-05-04"
+  },
+  {
+    "name": "Avengers: Endgame",
+    "client_id": 3,
+    "start_date": "2017-08-10",
+    "finish_date": "2019-04-26"
+  },
+  {
+    "name": "Avengers: Infinity War",
+    "client_id": 3,
+    "start_date": "2017-01-23",
+    "finish_date": "2018-04-27"
+  },
+  {
+    "name": "Avengers: Age of Ultron",
+    "client_id": 5,
+    "start_date": "2014-02-11",
+    "finish_date": "2015-05-01"
+  },
+  {
+    "name": "Guardians of the Galaxy Vol. 3",
+    "client_id": 4,
+    "start_date": "2021-11-08",
+    "finish_date": "2023-05-05"
+  },
+  {
+    "name": "Captain America: The Winter Soldier",
+    "client_id": 4,
+    "start_date": "2013-04-01",
+    "finish_date": "2014-04-04"
+  }
+]

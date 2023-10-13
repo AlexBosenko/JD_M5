@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Peter Quill",
+    "birthday": "1979-06-21",
+    "level": "Middle",
+    "salary": 50000
+  },
+  {
+    "name": "Peter Parker",
+    "birthday": "1996-06-01",
+    "level": "Junior",
+    "salary": 3500
+  },
+  {
+    "name": "Tony Stark",
+    "birthday": "1965-05-04",
+    "level": "Senior",
+    "salary": 90000
+  },
+  {
+    "name": "Clint Barton",
+    "birthday": "1971-01-07",
+    "level": "Middle",
+    "salary": 75000
+  },
+  {
+    "name": "Scott Lang",
+    "birthday": "1969-04-06",
+    "level": "Trainee",
+    "salary": 800
+  },
+  {
+    "name": "Steven Rogers",
+    "birthday": "1981-06-13",
+    "level": "Senior",
+    "salary": 100000
+  },
+  {
+    "name": "Groot",
+    "birthday": "2005-09-20",
+    "level": "Trainee",
+    "salary": 1500
+  },
+  {
+    "name": "Natalia Romanova",
+    "birthday": "1984-11-22",
+    "level": "Middle",
+    "salary": 60000
+  },
+  {
+    "name": "Pepper Pots",
+    "birthday": "1972-09-27",
+    "level": "Middle",
+    "salary": 45000
+  },
+  {
+    "name": "Thor Odinson",
+    "birthday": "1983-08-11",
+    "level": "Middle",
+    "salary": 80000
+  }
+]
