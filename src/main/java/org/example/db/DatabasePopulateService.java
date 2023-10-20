@@ -3,10 +3,10 @@ package org.example.db;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import org.example.properties.PropertyReader;
-import org.example.services.Client;
-import org.example.services.Project;
-import org.example.services.ProjectWorker;
-import org.example.services.Worker;
+import org.example.entities.Client;
+import org.example.entities.Project;
+import org.example.entities.ProjectWorker;
+import org.example.entities.Worker;
 
 import java.io.*;
 import java.lang.reflect.Type;

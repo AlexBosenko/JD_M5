@@ -1,7 +1,7 @@
 package org.example.db;
 
 import org.example.properties.PropertyReader;
-import org.example.services.*;
+import org.example.entities.*;
 
 import java.io.IOException;
 import java.nio.file.Files;

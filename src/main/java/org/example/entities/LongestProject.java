@@ -1,4 +1,4 @@
-package org.example.services;
+package org.example.entities;
 
 public class LongestProject {
     private final String name;

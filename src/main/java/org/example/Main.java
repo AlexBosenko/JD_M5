@@ -4,7 +4,7 @@ import org.example.db.Database;
 import org.example.db.DatabaseInitService;
 import org.example.db.DatabasePopulateService;
 import org.example.db.DatabaseQueryService;
-import org.example.services.*;
+import org.example.entities.*;
 
 import java.util.List;
 

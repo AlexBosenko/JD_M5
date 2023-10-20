@@ -1,4 +1,4 @@
-package org.example.services;
+package org.example.entities;
 
 import java.time.LocalDate;
 

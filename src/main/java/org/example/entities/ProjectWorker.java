@@ -1,4 +1,4 @@
-package org.example.services;
+package org.example.entities;
 
 public class ProjectWorker {
     private final int project_id;

@@ -1,4 +1,4 @@
-package org.example.services;
+package org.example.entities;
 
 public class Project {
     private final String name;
